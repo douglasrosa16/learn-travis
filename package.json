@@ -1,0 +1,14 @@
+{
+  "name": "learn-travis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/douglasrosa16/learn-travis.git",
+  "author": "douglasrosa16 <42454362+douglasrosa16@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
