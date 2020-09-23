@@ -2,4 +2,4 @@ language: node_js,
 deploy: 
   provider: heroku
   api_key: $HEROKU_API_KEY
-  app: learn-travis
+  app: learn-travis-tcc
