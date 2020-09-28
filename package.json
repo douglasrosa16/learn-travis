@@ -6,9 +6,12 @@
   "author": "douglasrosa16 <42454362+douglasrosa16@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
+    "dev": "nodemon server.js",
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.2"
   }
 }
